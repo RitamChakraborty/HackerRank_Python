@@ -13,3 +13,4 @@
 - [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 - [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)
 - [Mutation](https://www.hackerrank.com/challenges/python-mutations/problem)
+- [String Validator](https://www.hackerrank.com/challenges/string-validators/problem)
