@@ -1,14 +1,12 @@
-# HackerRank Python
+# [HackerRank Python](https://www.hackerrank.com/domains/python)
 
 ## Introduction
 
-## Basic Data Types
-### Easy
+### Basic Data Types
 - [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
 - [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
 
-## Strings
-### Easy
+### Strings
 - [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
 - [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 - [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)
