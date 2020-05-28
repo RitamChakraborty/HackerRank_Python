@@ -17,3 +17,4 @@
 - [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)
 - [Capitalized!](https://www.hackerrank.com/challenges/capitalize/problem)
 - [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
+- [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
