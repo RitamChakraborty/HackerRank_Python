@@ -1,11 +1,15 @@
-# https://www.hackerrank.com/challenges/itertools-permutations/problem
+# https://www.hackerrank.com/challenges/itertools-combinations/problem
 import itertools
+
 
 def permutation(s, k):
     s = sorted(s)
-    lst = list(itertools.permutations(s, k))
-    for i in lst:
-        print("".join(i))
+
+    for i in range(1, k + 1):
+        lst = list(itertools.combinations(s, i))
+
+        for j in lst:
+            print("".join(j))
 
 
 if __name__ == '__main__':

@@ -23,5 +23,6 @@
 - [Merge the Tools!](rinthttps://www.hackerrank.com/challenges/merge-the-tools/problem)
 
 ### Itertools
-- [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
-- [itertools.permutation()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+- [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
+- [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+- [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)
