@@ -24,3 +24,4 @@
 
 ### Itertools
 - [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
+- [itertools.permutation()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
