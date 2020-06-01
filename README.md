@@ -20,4 +20,7 @@
 - [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 - [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 - [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
-- [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)
+- [Merge the Tools!](rinthttps://www.hackerrank.com/challenges/merge-the-tools/problem)
+
+### Itertools
+- [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
