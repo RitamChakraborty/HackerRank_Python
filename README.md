@@ -22,7 +22,10 @@
 - [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
 - [Merge the Tools!](rinthttps://www.hackerrank.com/challenges/merge-the-tools/problem)
 
+
 ### Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
 - [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
 - [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+- [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
+- [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)
