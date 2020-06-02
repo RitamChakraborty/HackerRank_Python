@@ -6,6 +6,7 @@
 - [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 - [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)
 - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
+- [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)
 
 ### Basic Data Types
 - [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
