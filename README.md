@@ -3,6 +3,7 @@
 ## Introduction
 - [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)
 - [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+- [Arithmatic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 
 ### Basic Data Types
 - [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
