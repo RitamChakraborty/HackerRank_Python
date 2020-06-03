@@ -33,6 +33,7 @@
 - [Introduction to Sets](https://www.hackerrank.com/challenges/no-idea/problem)
 - [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)
 - [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+- [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
