@@ -36,3 +36,4 @@
 - [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)
 - [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
 - [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)
+- [Iterable and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
