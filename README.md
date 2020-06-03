@@ -30,7 +30,8 @@
 - [Merge the Tools!](rinthttps://www.hackerrank.com/challenges/merge-the-tools/problem)
 
 ## Sets
-- [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
+- [Introduction to Sets](https://www.hackerrank.com/challenges/no-idea/problem)
+- [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
@@ -40,5 +41,3 @@
 - [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)
 - [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
 - [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)
-
-[]: https://www.hackerrank.com/challenges/py-introduction-to-sets/problem
