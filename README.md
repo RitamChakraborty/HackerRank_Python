@@ -42,6 +42,7 @@
 - [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)
 - [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
 - [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)
+- [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
