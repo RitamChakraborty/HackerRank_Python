@@ -35,6 +35,7 @@
 - [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
 - [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)
 - [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+- [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
