@@ -40,6 +40,7 @@
 - [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
 - [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
 - [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)
+- [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
