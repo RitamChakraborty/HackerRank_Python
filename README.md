@@ -38,6 +38,7 @@
 - [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
 - [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
 - [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
+- [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
