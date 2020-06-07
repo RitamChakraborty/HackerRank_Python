@@ -46,6 +46,7 @@
 
 ## Math
 - [Polar Coordinate](https://www.hackerrank.com/challenges/polar-coordinates/problem)
+- [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
