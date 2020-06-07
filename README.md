@@ -49,6 +49,7 @@
 - [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)
 - [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
 - [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
+- [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
 
 ## Itertools
 - [itertools.products()](https://www.hackerrank.com/challenges/itertools-product/problem)
