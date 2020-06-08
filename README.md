@@ -69,3 +69,4 @@
 - [Collections.OrderDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 - [Word Order](https://www.hackerrank.com/challenges/word-order/problem)
 - [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)
+- [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)
