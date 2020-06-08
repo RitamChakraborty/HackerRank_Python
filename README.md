@@ -66,3 +66,5 @@
 - [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)
 - [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
 - [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
+- [Collections.OrderDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+- [Word Order](https://www.hackerrank.com/challenges/word-order/problem)
