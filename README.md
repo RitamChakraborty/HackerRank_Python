@@ -61,3 +61,6 @@
 - [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)
 - [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
 - [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)
+
+## Collections
+- [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)
