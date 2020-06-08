@@ -64,3 +64,4 @@
 
 ## Collections
 - [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)
+- [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
