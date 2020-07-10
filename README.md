@@ -74,3 +74,4 @@
 
 ## Date and Time
 - [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)
+- [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)
