@@ -78,3 +78,4 @@
 
 ## Errors and Exceptions
 - [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)
+- [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)
