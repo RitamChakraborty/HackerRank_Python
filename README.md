@@ -71,3 +71,6 @@
 - [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)
 - [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)
 - [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)
+
+## Date and Time
+- [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)
