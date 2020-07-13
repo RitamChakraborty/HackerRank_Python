@@ -80,3 +80,7 @@
 - [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)
 - [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)
 - [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)
+
+## Classes
+- [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)
+- [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
