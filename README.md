@@ -84,3 +84,8 @@
 ## Classes
 - [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)
 - [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
+
+## Built-Ins
+- [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)
+- [Input()](https://www.hackerrank.com/challenges/input/problem)
+- [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)
