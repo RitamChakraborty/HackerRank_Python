@@ -19,7 +19,4 @@ if __name__ == '__main__':
     print(s / n)
 
     # One liner solution
-    print([[a / b] for a, b in [(sum(a), len(a)) for a in
-                                [[int(Student(*input().split()).MARKS) for _ in range(n)] for n, Student in
-                                 [(int(input()), __import__('collections').namedtuple('Student', input().split()))]]]][
-              0][0])
+    # print([[a / b] for a, b in [(sum(a), len(a)) for a in [[int(Student(*input().split()).MARKS) for _ in range(n)] for n, Student in [(int(input()), __import__('collections').namedtuple('Student', input().split()))]]]][0][0])
