@@ -91,3 +91,4 @@
 - [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)
 - [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)
 - [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)
+- [ginortS](https://www.hackerrank.com/challenges/ginorts)
