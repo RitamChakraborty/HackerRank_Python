@@ -95,3 +95,4 @@
 
 ## Python Functionals
 - [Map and Lambda Functions](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+- [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
