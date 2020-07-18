@@ -101,3 +101,4 @@
 ## Regex and Parsing
 - [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
 - [Re.split()](https://www.hackerrank.com/challenges/re-split/problem)
+- [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)
