@@ -105,3 +105,4 @@
 - [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
 - [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
 - [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
+- [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
