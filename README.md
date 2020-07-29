@@ -106,3 +106,4 @@
 - [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
 - [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
 - [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
+- [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
