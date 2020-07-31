@@ -109,3 +109,4 @@
 - [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
 - [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
 - [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)
+- [HTML Parser - Part -1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
