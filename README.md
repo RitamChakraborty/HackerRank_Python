@@ -112,3 +112,4 @@
 - [HTML Parser - Part - 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
 - [HTML Parser - Part - 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
 - [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
+- [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)
