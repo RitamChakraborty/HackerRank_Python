@@ -6,9 +6,10 @@ if __name__ == '__main__':
 
     for _ in range(n):
         uid = input()
-        two_uppercase = "(?=(?:[a-z\d]*[A-Z][a-z\d]*){2,})"
-        three_digits = "(?=(?:[a-zA-Z]*\d[a-zA-Z]*){3,})"
-        unique_characters = "(?:([a-zA-Z\d])(?!.*\1))"
+        two_uppercase = r"(?=(?:[a-z\d]*[A-Z][a-z\d]*){2,})"
+        three_digits = r"(?=(?:[a-zA-Z]*\d[a-zA-Z]*){3,})"
+        unique_characters = r"(?:([a-zA-Z\d])(?!.*\1))"
+        regex = r"^(?=(?:[a-z\d]*[A-Z][a-z\d]*){2,})(?=(?:[a-zA-Z]*\d[a-zA-Z]*){3,})(?:([a-zA-Z\d])(?!.*\1)){10}$"
 
         match = re.match(
             r"^(?=(?:[a-z\d]*[A-Z][a-z\d]*){2,})(?=(?:[a-zA-Z]*\d[a-zA-Z]*){3,})(?:([a-zA-Z\d])(?!.*\1)){10}$", uid)
