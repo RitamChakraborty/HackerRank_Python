@@ -115,3 +115,4 @@
 - [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)
 - [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
 - [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)
+- [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)
