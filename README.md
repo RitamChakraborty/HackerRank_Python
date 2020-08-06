@@ -116,3 +116,6 @@
 - [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
 - [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)
 - [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)
+
+## XML
+- [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
