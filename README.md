@@ -120,3 +120,6 @@
 ## XML
 - [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
 - [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
+
+## Closures and Decorators
+- [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
