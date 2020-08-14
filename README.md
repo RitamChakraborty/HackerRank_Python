@@ -124,3 +124,6 @@
 ## Closures and Decorators
 - [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
 - [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)
+
+## Numpy
+- [Array](https://www.hackerrank.com/challenges/np-arrays/problem)
