@@ -127,3 +127,4 @@
 
 ## Numpy
 - [Array](https://www.hackerrank.com/challenges/np-arrays/problem)
+- [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
