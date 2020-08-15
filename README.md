@@ -129,3 +129,5 @@
 - [Array](https://www.hackerrank.com/challenges/np-arrays/problem)
 - [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
 - [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
+- [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)
+- [Zeors and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
