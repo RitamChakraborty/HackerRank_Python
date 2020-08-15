@@ -135,3 +135,4 @@
 - [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
 - [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
 - [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)
+- [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
