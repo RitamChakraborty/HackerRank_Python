@@ -132,3 +132,4 @@
 - [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)
 - [Zeors and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
 - [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
+- [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
