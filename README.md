@@ -138,3 +138,4 @@
 - [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)
 - [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
 - [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)
+- [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
