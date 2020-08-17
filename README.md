@@ -142,3 +142,4 @@
 
 ## Debugging
 - [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
+- [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)
