@@ -139,3 +139,6 @@
 - [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
 - [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)
 - [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
+
+## Debugging
+- [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
