@@ -133,6 +133,8 @@
 - [Zeors and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
 - [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
 - [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
+- [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
 - [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
 - [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)
 - [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
+- [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)
