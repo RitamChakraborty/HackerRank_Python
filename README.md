@@ -18,7 +18,7 @@
 | ------- | ---- |
 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_Python/blob/master/Basic%20Data%20Types/Lists/main.py) |
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_Python/blob/master/Basic%20Data%20Types/Tuples/main.py) |
-
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Code](https://github.com/RitamChakraborty/HackerRank_Python/blob/master/Basic%20Data%20Types/List%20Comprehensions/main.py) |
 ## Strings
 
 | Problem | Code |
